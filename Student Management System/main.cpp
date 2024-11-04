@@ -100,4 +100,5 @@ int main(){
   
   
   return 0;
+ // code written by Nawed Ahmad email: ahmadnawed796@gmail.com
 }
